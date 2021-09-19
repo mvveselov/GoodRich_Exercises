@@ -1,6 +1,9 @@
 #ifndef _NODELIST_H_
 #define _NODELIST_H_
 
+
+#include <sstream>
+#include <iostream>
 //typedef int Elem;
 template<typename E>
 class NodeList;

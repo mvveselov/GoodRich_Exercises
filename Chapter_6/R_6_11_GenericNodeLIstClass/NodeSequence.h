@@ -1,6 +1,7 @@
 #ifndef _NODESEQUENCE_H_
 #define _NODESEQUENCE_H_
 
+#include "NodeList.h"
 
 template <class E>
 class NodeSequence: public NodeList<E>
