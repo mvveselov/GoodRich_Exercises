@@ -6,7 +6,7 @@ typedef int Elem;
 class NodeList
 {
 private:
-    // insert Node declaration heere
+    // insert Node declaration here
     struct Node {
       Elem elem;
         Node* prev;
